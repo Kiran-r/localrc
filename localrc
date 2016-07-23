@@ -14,13 +14,13 @@ SERVICE_PASSWORD=openstack
 SERVICE_TOKEN=tokentoken
 
 # Github's Branch
-GLANCE_BRANCH=stable/icehouse
-HORIZON_BRANCH=stable/icehouse
-KEYSTONE_BRANCH=stable/icehouse
-NOVA_BRANCH=stable/icehouse
-NEUTRON_BRANCH=stable/icehouse
-HEAT_BRANCH=stable/icehouse
-CEILOMETER_BRANCH=stable/icehouse
+GLANCE_BRANCH=stable/mitaka
+HORIZON_BRANCH=stable/mitaka
+KEYSTONE_BRANCH=stable/mitaka
+NOVA_BRANCH=stable/mitaka
+NEUTRON_BRANCH=stable/mitaka
+HEAT_BRANCH=stable/mitaka
+CEILOMETER_BRANCH=stable/mitaka
 
 # Neutron - Networking Service
 DISABLED_SERVICES=n-net
